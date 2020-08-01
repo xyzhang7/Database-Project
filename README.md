@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="logo/bustub-whiteborder.svg" alt="BusTub Logo" height="200">
 
 -----------------
@@ -149,3 +150,6 @@ $ docker start -a -i bustub
 ```
 
 to open a shell within the box. You can find Bustub's code mounted at `/bustub` and run the commands mentioned above like normal.
+=======
+# Database-Project
+>>>>>>> 5c10f05 (Initial commit)
