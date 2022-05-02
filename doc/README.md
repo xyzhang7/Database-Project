@@ -1,4 +1,8 @@
 # Database-Project
+>>>>>>> 5c10f05 (Initial commit)
+=======
+>>>>>>> a716928 (feat: add bustub src repo)
+# Database-Project
 * Implement a Recruitment System by Java for managing data relevant to job recruitment,involving employee, employer, position, and employment history.
 * Provide an interactive interface to system administrator, employee, and employer.   
 * [Specification](Spec.pdf)
